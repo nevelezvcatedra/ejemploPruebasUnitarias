@@ -1,0 +1,7 @@
+organization=nevelezvcatedra
+projectKey=nevelezvcatedra_ejemploPruebasUnitarias
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.7796
+dashboardUrl=https://sonarcloud.io/dashboard?id=nevelezvcatedra_ejemploPruebasUnitarias
+ceTaskId=AXIGAAtTKUCtxY1PQvhs
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXIGAAtTKUCtxY1PQvhs
