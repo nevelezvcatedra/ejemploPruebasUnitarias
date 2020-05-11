@@ -1,0 +1,9 @@
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb

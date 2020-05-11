@@ -1,0 +1,17 @@
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\bin\Debug\netcoreapp2.1\LogicaNegocioTest.deps.json
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\bin\Debug\netcoreapp2.1\LogicaNegocioTest.runtimeconfig.json
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\bin\Debug\netcoreapp2.1\LogicaNegocioTest.runtimeconfig.dev.json
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\bin\Debug\netcoreapp2.1\LogicaNegocioTest.dll
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\bin\Debug\netcoreapp2.1\LogicaNegocioTest.pdb
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\bin\Debug\netcoreapp2.1\LogicaNegocio.dll
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\bin\Debug\netcoreapp2.1\LogicaNegocio.pdb
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\obj\Debug\netcoreapp2.1\LogicaNegocioTest.csprojAssemblyReference.cache
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\obj\Debug\netcoreapp2.1\LogicaNegocioTest.csproj.CoreCompileInputs.cache
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\obj\Debug\netcoreapp2.1\LogicaNegocioTest.AssemblyInfoInputs.cache
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\obj\Debug\netcoreapp2.1\LogicaNegocioTest.AssemblyInfo.cs
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\obj\Debug\netcoreapp2.1\LogicaNegocioTest.csproj.CopyComplete
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\obj\Debug\netcoreapp2.1\LogicaNegocioTest.dll
+C:\Users\nestor.velez\Documents\IngSw2\LogicaNegocioTest\obj\Debug\netcoreapp2.1\LogicaNegocioTest.pdb

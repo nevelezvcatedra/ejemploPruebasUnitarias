@@ -1,0 +1,9 @@
+C:\Users\nestor.velez\Documents\IngSw2\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+C:\Users\nestor.velez\Documents\IngSw2\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\nestor.velez\Documents\IngSw2\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\nestor.velez\Documents\IngSw2\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\nestor.velez\Documents\IngSw2\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\nestor.velez\Documents\IngSw2\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\nestor.velez\Documents\IngSw2\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\nestor.velez\Documents\IngSw2\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\nestor.velez\Documents\IngSw2\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb
